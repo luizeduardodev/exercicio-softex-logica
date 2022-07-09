@@ -1,0 +1,14 @@
+//Física;
+//1 lugar = aristotoles;
+//2 lugar = platão;
+//3 lugar = socrates;
+
+//Matmática
+//1 lugar = platão;
+//2 lugar = socrates;
+//3 lugar = aristotoles;
+
+//Química
+//1 lugar = socrates;
+//2 lugar = aristotoles;
+//3 lugar = platão;
