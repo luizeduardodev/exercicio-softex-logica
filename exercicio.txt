@@ -1,14 +1,27 @@
+Aristóteles, Sócrates e Platão estavam disputando uma competição de perguntas nas disciplinas de Física, Matemática e Química. Cada um obteve um primeiro lugar, um segundo lugar e um terceiro lugar.
+
+Sabendo que:
+- Aristóteles não ficou em primeiro em Química;
+- Sócrates perdeu para Platão em Física;
+- Platão acertou mais que Aristóteles em Matemática.
+
+Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+RESPOSTA:
+
 //Física;
-//1 lugar = aristotoles;
+//1 lugar = aristóteles;
 //2 lugar = platão;
 //3 lugar = socrates;
 
 //Matmática
 //1 lugar = platão;
 //2 lugar = socrates;
-//3 lugar = aristotoles;
+//3 lugar = aristóteles;
 
 //Química
 //1 lugar = socrates;
-//2 lugar = aristotoles;
+//2 lugar = aristóteles;
 //3 lugar = platão;
